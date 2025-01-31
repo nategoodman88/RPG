@@ -1,0 +1,1 @@
+audio_play_sound(Overworld, 0, true);
