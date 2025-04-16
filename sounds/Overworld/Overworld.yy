@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":261.32898,
+  "duration":331.00046,
   "name":"Overworld",
   "parent":{
     "name":"Sounds",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"Overworld.mp3",
   "type":0,
-  "volume":1.0,
+  "volume":0.11,
 }

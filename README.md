@@ -1,3 +1,3 @@
 ### GameMaker RPG   
 
-Messing around in GameMaker Studio 
+A very rough "game" made in GameMaker. Done to get familar with the engine, just messing around
